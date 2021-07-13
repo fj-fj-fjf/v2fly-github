@@ -1,2 +1,2 @@
 # v2fly-github
-test
+Clash rule providers from https://github.com/v2fly/domain-list-community
